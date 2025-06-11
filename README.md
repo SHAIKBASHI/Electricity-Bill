@@ -6,7 +6,7 @@ This project is a real-world **Electricity Bill Calculator for Domestic Consumer
 
 - Takes **units consumed** as input
 - Calculates electricity charges **based on accurate slab-wise rates**
-- Adds a fixed meter charge (₹50)
+- Adds a fixed meter charge (₹30)
 - Outputs total bill in a simple format
 
 ## 🧮 Slab Rates Used (FY 2025–26)
